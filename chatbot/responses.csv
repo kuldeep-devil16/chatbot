@@ -1,0 +1,34 @@
+key,response
+hi,Hello! How can I assist you today?
+hello,Hi there! How can I help?
+hey,Hey! What can I do for you?
+bye,Goodbye! Have a great day!
+goodbye,See you later! Take care.
+how are you,I'm just code but thanks for asking! How can I assist you?
+what's up,Not much! Just here to help you.
+help,Sure! Let me know what you need help with.
+fix,I'm here to help with any issues. What needs fixing?
+menu,Here’s the main menu:\n - Account Details\n - Transactions\n - Support\n - Help
+account,Please provide more information about the account details you need.
+balance,To check your balance, please log in to your account.
+bank acc.,Here are your bank account details:\n - Account Number\n - Account Balance\n - Account Type
+my details,Here are your details:\n - Name: [Your Name]\n - Father's Name: [Father's Name]\n - College: [College Name]\n - Roll No: [Roll Number]\n - Date of Birth: [DOB]
+location,I'm just a virtual assistant, but I'm always here for you, wherever you are!
+thank you,You're very welcome! Happy to help.
+thanks,No problem! Let me know if there’s anything else.
+who are you,I'm a chatbot designed to assist you with various questions and tasks.
+what can you do,I can help you with account details, checking balance, support, and general questions.
+contact support,You can reach our support team at support@example.com or call 123-456-7890.
+forgot password,To reset your password, go to the login page and click "Forgot Password."
+services,Our services include:\n - Banking Assistance\n - Account Management\n - Customer Support\n - Help and Guidance
+transfer money,To transfer money, log in to your account and navigate to the "Transfers" section.
+loan,For loan information, please visit our loan services page or contact our support team.
+open account,To open a new account, please visit our website or your nearest branch.
+fees,For information on fees, please visit our fees page or contact support.
+feedback,We value your feedback! Please let us know how we can improve.
+complaint,We’re sorry to hear that. Please provide details of your complaint so we can assist.
+weather,I can't give live weather updates, but you can check weather.com or use a weather app!
+time,I can't check the time directly, but your device should have the current time.
+news,You can check the latest news at news websites like BBC, CNN, or your preferred source.
+exit,Goodbye! Thank you for chatting with me.
+
